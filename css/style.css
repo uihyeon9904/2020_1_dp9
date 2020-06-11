@@ -1,0 +1,53 @@
+html{background-color: black; scroll-behavior: smooth; color: white;
+	font-family: 'Noto Serif KR', serif;}
+body,h1,h2,h3,p{margin: 0;padding: 0;}
+em{font-style: normal; border-bottom: 1px solid white;}
+img{display: block;}
+mark{background-color: #f15a24; color: black; font-weight: 500;}
+strong{color:#7db8ff}
+div p strong{color: #7db8ff}
+h2{font-weight: 900; font-size: 3em; display: inline-block;color: #7db8ff}
+h3{font-weight: 900; font-size: 1.5em; display: inline-block;color: #7db8ff}
+li,ul{margin: 0; padding: 0; z-index: 100;}
+a{color: white; text-decoration: none;}
+nav{height: 45px;}
+        nav ul{height: 45px;}
+	    nav ul li{list-style-type: none; width: 253px; height: 45px; 
+	    	      text-align: center; line-height: 45px; float: left;}
+	    nav ul li a{display: block; background: black; color: white;
+	                box-shadow: none; font-weight: 500;font-size: 0.9em;
+	                text-decoration: none;}
+	    nav ul li a:hover{background: lightgray;
+		                  color: black;
+		                  transition: all 0.3s;}
+.col-1{width: 900px; margin-left: 309px; margin-bottom: 280px;}
+.bg-1{height: 1366px; background: url('../img/img1.jpg');
+	  background-size: 100%; background-attachment: fixed;}
+.bg-2{height: 1001px; background: url('../img/img4.jpg');
+	  background-size: 100%; background-attachment: fixed;}
+.bg-3{height: 900px; background: url('../img/img21.jpg');
+	  background-size: 100%; background-attachment: fixed;}
+.bg-4{height: 1139px; background: url('../img/img22.jpg');
+	  background-size: 100%; background-attachment: fixed;}
+.bg-5{height: 1000px; background: url('../img/img23.jpg');
+	  background-size: 100%; background-attachment: fixed;}
+.bg-6{height: 1133px; background: url('../img/img24.jpg');
+	  background-size: 100%; background-attachment: fixed;}
+.bg-7{height: 1313px; background: url('../img/img25.jpg');
+	  width: 993px; margin-left: 257px;}
+.nav{position: fixed;}
+#abs1{position: absolute; top: 222px; left: 130px;}
+#abs2{position: absolute; left: 700px; top: 300px;}
+#abs3{position: absolute; left: 700px; top: 365px;}
+#abs4{position: absolute; left: 918px; top: 50px;}
+#abs5{position: absolute; top: 300px; left: 350px;}
+#abs6{position: absolute; top: 380px; left: 350px;}
+#abs7{position: absolute; top: 590px; left: 350px;}
+#abs8{position: absolute; top: 680px; left: 350px;}
+#abs9{position: absolute; top: 0px; left: -310px;}
+#abs10{position: absolute; top: 120px; left: 1028px;}
+#abs11{position: absolute; top: 195px; left: 850px;}
+#abs12{position: absolute; top: 200px; left: 0px;}
+#abs13{position: absolute; top: 460px; left: 840px;}
+
+
